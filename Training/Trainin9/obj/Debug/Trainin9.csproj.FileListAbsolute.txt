@@ -1,6 +1,0 @@
-C:\Users\poulm\source\repos\Trainin\Trainin9\bin\Debug\Trainin9.exe.config
-C:\Users\poulm\source\repos\Trainin\Trainin9\bin\Debug\Trainin9.exe
-C:\Users\poulm\source\repos\Trainin\Trainin9\bin\Debug\Trainin9.pdb
-C:\Users\poulm\source\repos\Trainin\Trainin9\obj\Debug\Trainin9.csproj.CoreCompileInputs.cache
-C:\Users\poulm\source\repos\Trainin\Trainin9\obj\Debug\Trainin9.exe
-C:\Users\poulm\source\repos\Trainin\Trainin9\obj\Debug\Trainin9.pdb
