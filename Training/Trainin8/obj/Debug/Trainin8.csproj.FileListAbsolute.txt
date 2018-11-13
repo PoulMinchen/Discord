@@ -1,0 +1,6 @@
+C:\Users\poulm\source\repos\Trainin\Trainin8\bin\Debug\Trainin8.exe.config
+C:\Users\poulm\source\repos\Trainin\Trainin8\bin\Debug\Trainin8.exe
+C:\Users\poulm\source\repos\Trainin\Trainin8\bin\Debug\Trainin8.pdb
+C:\Users\poulm\source\repos\Trainin\Trainin8\obj\Debug\Trainin8.csproj.CoreCompileInputs.cache
+C:\Users\poulm\source\repos\Trainin\Trainin8\obj\Debug\Trainin8.exe
+C:\Users\poulm\source\repos\Trainin\Trainin8\obj\Debug\Trainin8.pdb

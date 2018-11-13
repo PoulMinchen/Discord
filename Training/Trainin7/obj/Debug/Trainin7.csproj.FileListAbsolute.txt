@@ -1,0 +1,7 @@
+C:\Users\poulm\source\repos\Trainin\Trainin7\bin\Debug\Trainin7.exe.config
+C:\Users\poulm\source\repos\Trainin\Trainin7\bin\Debug\Trainin7.exe
+C:\Users\poulm\source\repos\Trainin\Trainin7\bin\Debug\Trainin7.pdb
+C:\Users\poulm\source\repos\Trainin\Trainin7\obj\Debug\Trainin7.csprojAssemblyReference.cache
+C:\Users\poulm\source\repos\Trainin\Trainin7\obj\Debug\Trainin7.csproj.CoreCompileInputs.cache
+C:\Users\poulm\source\repos\Trainin\Trainin7\obj\Debug\Trainin7.exe
+C:\Users\poulm\source\repos\Trainin\Trainin7\obj\Debug\Trainin7.pdb
